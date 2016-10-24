@@ -1,0 +1,224 @@
+#logo {
+  display: block;
+  margin: auto;
+  width: 75px;
+  position: center;
+  padding-top: 0.5em;
+  padding-bottom: 0.4em; }
+
+.title {
+  padding-top: 0.6em;
+  text-align: left;
+  font-size: 1.5em; }
+
+#gtm_menu {
+  text-decoration: none;
+  margin-top: 1.4em;
+  text-align: left; }
+
+a {
+  text-decoration: none;
+  color: #000000; }
+
+a:hover, a:focus {
+  color: #ddd;
+  background-color: #000; }
+
+.menu {
+  background-color: #fff; }
+
+.jumbotron {
+  background-color: #fcee22;
+  padding: 5em 0 5em 0;
+  margin: 0; }
+
+.jumbotron2 {
+  background-color: #f2f4f5;
+  padding: 3.5em 0 3.5em 0;
+  margin: 0; }
+
+.jumbotron3 {
+  background-color: #999;
+  padding: 1.5em 0 3em 0;
+  margin: 0; }
+
+.jumbotron4 {
+  background-color: #fcee22;
+  padding: 1.5em 0 3em 0;
+  margin: 0; }
+
+.img3 {
+  background-image: url(../images/pencils.jpg);
+  background-size: cover;
+  padding: 5em 0 5em 0;
+  margin-right: -15px;
+  margin-left: -15px; }
+
+.img2 {
+  background-image: url(../images/tools.jpg);
+  background-size: cover;
+  padding: 5em 0 5em 0;
+  margin-right: -15px;
+  margin-left: -15px; }
+
+#title2 {
+  display: block;
+  margin: auto;
+  text-align: center;
+  font-size: 3.5em;
+  font-weight: 700; }
+
+.btn-default {
+  background-color: transparent;
+  border-style: solid;
+  border-color: #000000;
+  border-radius: 0; }
+  .btn-default:hover {
+    background-color: #000000;
+    color: #fff;
+    border-color: #000000;
+    transition-duration: 0.5s; }
+
+.btn_main {
+  display: block;
+  margin: auto;
+  text-align: center;
+  padding-top: 1.5em; }
+
+#info_txt {
+  display: block;
+  margin: auto;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 300;
+  line-height: 1.8em; }
+
+#title3 {
+  display: block;
+  text-align: left;
+  font-size: 3em;
+  font-weight: 800;
+  line-height: 1.8em; }
+
+.programma {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+  .programma .events {
+    margin-top: 1em;
+    text-align: left;
+    font-size: 1.5em; }
+  .programma .btn_programma {
+    display: inline-block;
+    float: right;
+    margin: auto;
+    text-align: center;
+    align: right; }
+
+.btn_event {
+  display: inline-block;
+  background-color: #fcee22;
+  border-radius: 0;
+  border-style: none;
+  margin-top: 10px; }
+
+.btn_event2 {
+  display: inline-block;
+  background-color: #b3b3b3;
+  border-radius: 0;
+  border-style: none;
+  margin-left: 1em; }
+
+.btn-default2 {
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  transition-duration: 0.5s; }
+  .btn-default2:hover {
+    color: white; }
+
+.btn-default3 {
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  transition-duration: 0.5s; }
+  .btn-default3:hover {
+    color: white; }
+
+.beschrijving {
+  font-weight: 300;
+  font-size: 1.3em;
+  line-height: 1.5em;
+  text-align: justify; }
+
+.title4 {
+  text-transform: uppercase;
+  font-weight: 700; }
+
+hr {
+  border: 0;
+  border-bottom: 1px solid #000000; }
+
+.left_container {
+  float: right;
+  text-align: right;
+  padding-top: 25em;
+  padding-right: 5em;
+  border-right: 1px solid #000000; }
+  .left_container .beschrijving2 {
+    font-weight: 800;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    text-align: right-justify;
+    line-height: 2em; }
+
+.title5 {
+  text-align: right;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 3.5em; }
+
+.btn_programma {
+  margin-top: 1.8em; }
+
+.kennis {
+  background-color: #f2f4f5;
+  padding: 1em 0 5em 0;
+  margin-right: -15px;
+  margin-left: -15px; }
+
+.title6 {
+  text-transform: uppercase;
+  font-weight: 300; }
+
+.beschrijving3 {
+  font-weight: 800;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  text-align: right-justify;
+  line-height: 2em; }
+
+.blogs {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+  .blogs .events {
+    margin-top: 2em;
+    text-align: left;
+    font-size: 1.5em; }
+  .blogs .btn_programma {
+    display: inline-block;
+    float: right;
+    margin: auto;
+    padding-right: 15em;
+    text-align: center; }
+
+footer {
+  padding: 2em 0 2em 0; }
+
+img {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  width: 200px;
+  float: center; }
